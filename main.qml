@@ -25,6 +25,7 @@ ApplicationWindow {
             wrapMode:Text.WrapAnywhere
             Layout.fillWidth: parent
             Layout.fillHeight: parent
+            Layout.minimumHeight: 100
             horizontalAlignment: Text.AlignHCenter
             text:_drivers || ""
         }
@@ -45,7 +46,6 @@ ApplicationWindow {
         ListView {
             Layout.fillWidth: parent
             Layout.fillHeight: parent
-            Layout.minHeight:100
             model: QtMultimedia.availableCameras
             delegate: Text {
                 text: modelData.displayName
