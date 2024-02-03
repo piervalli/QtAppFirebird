@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/firebird/zoneinfo64.res</file>
+        <file>assets/firebird/windowsZones.res</file>
+        <file>assets/firebird/udr_engine.conf</file>
+        <file>assets/firebird/timezoneTypes.res</file>
+        <file>assets/firebird/replication.conf</file>
+        <file>assets/firebird/plugins.conf</file>
+        <file>assets/firebird/metaZones.res</file>
+        <file>assets/firebird/ids.dat</file>
+        <file>assets/firebird/icudt63l.dat</file>
+        <file>assets/firebird/firebird.msg</file>
+        <file>assets/firebird/firebird.conf</file>
+        <file>assets/firebird/fbtrace.conf</file>
+        <file>assets/firebird/fbintl.conf</file>
+        <file>assets/firebird/databases.conf</file>
+        <file>assets/firebird/database.fdb</file>
+    </qresource>
+</RCC>
