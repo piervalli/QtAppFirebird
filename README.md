@@ -1,0 +1,2 @@
+# QtAppFirebird
+Firebird Android
